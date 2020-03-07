@@ -1,0 +1,12 @@
+body {background:#fff url(images/bg.gif) repeat-x;font-family:Verdana, Arial,Helvetica,sans-serif;font-size:12px;color:#666}
+* {margin:0;padding:0px}
+
+#wrap {width:927px;margin:25px auto 25px auto}
+#wrap #header #sitename {color:#000;font-family:Georgia, "Times New Roman", Times, serif;font-size:58px;font-weight:normal;display:block;padding-top:340px;padding-right:600px;text-align:center;}
+a{text-decoration:none; color:#000;}
+a:visited{color:#000;text-decoration:none;}
+#sitename a:hover{color:#f14f7c;text-decoration:none}
+#header {background:url(images/header.jpg) no-repeat;height:341px}
+.text{width:500px; background:#fff; border: 10px ridge #ffae00; color:#000; position:absolute; 
+top:436px; left:306px; font-size:2em; padding:10px;}
+font-family: 'Caveat', cursive;}
